@@ -1,5 +1,5 @@
-# Zetsu
-Extensive Command API for the Spigot API
+# Phoenix
+Extensive GUI API for the Spigot API
 
 ### Installation
 1. Retrieve the jar from releases or compile the plugin via git and maven.
